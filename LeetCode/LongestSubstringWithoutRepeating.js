@@ -19,7 +19,6 @@ var lengthOfLongestSubstring = function (s) {
 }
 
 // Example 1:
-
 // Input: s = "abcabcbb"
 // Output: 3
 // Explanation: The answer is "abc", with the length of 3.
